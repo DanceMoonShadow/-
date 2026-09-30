@@ -1,0 +1,11 @@
+# 系统/编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+~$*
+
+# Office 临时文件
+~$*.docx
+~$*.xlsx
+~$*.pptx
